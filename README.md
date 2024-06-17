@@ -8,8 +8,9 @@
 Desafio de POO da DIO, objetivo era por em prática os aprendizados sobre os pilares da OO.
 
 ---
->## Melhorias
+## Melhorias
+
+
 >[!IMPORTANT]
-> 
-> Eu decedi fazer algumas melhorias, como usar StreamAPI, e criar 2 tipos de conta, e mais de uma.
+> Eu escolhi fazer algumas melhorias, como usar StreamAPI, e criar 2 tipos de conta, e mais de uma.
 
